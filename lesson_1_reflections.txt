@@ -42,4 +42,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Git can actually be used for anthing. I have a couple of projects in  mind that would require version control that I will perform using git
+    Git can actually be used for anthing. I have a couple of projects in  mind that would require version control that I will perform using git.
