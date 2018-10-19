@@ -1,0 +1,2 @@
+When would you want to make your repository remote rather than keeping it local?
+  I would make my repository remote when I want more than one contributor for my project or when i want to reach my repository from various systems.
